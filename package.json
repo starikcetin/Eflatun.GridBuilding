@@ -1,0 +1,9 @@
+{
+    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+    "dependencies": {},
+    "description": "Grid building utilities for Unity.",
+    "displayName": "Eflatun.GridBuilding",
+    "license": "MIT",
+    "name": "com.eflatun.gridbuilding",
+    "version": "0.0.1"
+}
