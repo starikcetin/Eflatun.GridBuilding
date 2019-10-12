@@ -1,3 +1,14 @@
-﻿{
-	"name": "Eflatun.GridBuilding"
+{
+    "name": "Eflatun.GridBuilding",
+    "references": [
+        "GUID:42c2804766596fd4383f2d484efd3615"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
 }
